@@ -1,7 +1,6 @@
 /**
  * A Print function
  */
-
 function printLine()
 {
     return `Speak of the devil!`;
